@@ -17,7 +17,6 @@ Or
 ### Requirements
 
 - poetry `pip install poetry`
-- poe the poet ``
 
 ### Run locally
 

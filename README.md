@@ -26,3 +26,16 @@ Or
 ### Expose local instnace externally
 
 `npx localtunnel --subdomain vlm-janaka --port 8000 --print-requests true`
+
+## Licensing
+
+This template repository is provided without any specific licensing restrictions on the application code you create from it. You are encouraged to choose any license that fits your project's needs.
+
+### Common License Options
+
+- **MIT License**: A permissive license that allows for reuse with minimal restrictions.
+- **Apache License 2.0**: Similar to MIT but includes provisions for patents.
+- **GNU General Public License (GPL)**: Requires derivative works to also be open-sourced under the same license.
+- **BSD License**: Permissive like MIT, but with additional clauses regarding attribution.
+
+For more information on choosing a license, visit [ChooseALicense.com](https://choosealicense.com).

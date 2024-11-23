@@ -1,0 +1,1 @@
+"""functions and classes to manage data persistence and access in stores like database etc."""
